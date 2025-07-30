@@ -21,12 +21,12 @@ Optionally, it can provide a **basic pesticide recommendation** mapped to the de
    cd paddy-pest-classification
 
 2. Install dependencies:
-
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Open and run the notebook:
-
-jupyter notebook paddy_pest_detection_final.ipynb
+   ```bash
+   jupyter notebook paddy_pest_detection_final.ipynb
 
 
 ## Output
